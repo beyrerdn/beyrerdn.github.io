@@ -106,8 +106,10 @@ a.dotted-link:hover {
 .test-border {
   border: 1px red solid;
 }
-.featured-image {
-  text-align: center;
+img.project-image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* ======= Header ======= */
