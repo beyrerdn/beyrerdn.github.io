@@ -396,6 +396,10 @@ img.project-image {
   height: 15px;
   background: #66cb8c;
 }
+.skills .resume a,h3 {
+  padding: 0;
+  margin: 0;
+}
 
 /* List section */
 .list ul li {
