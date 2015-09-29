@@ -114,7 +114,7 @@ img.project-image {
 .contact-info {
   text-align: center;
 }
-.contact-info li {
+.contact-info li h4 {
   padding: 20px;
 }
 
@@ -430,7 +430,7 @@ img.project-image {
 .footer {
   background: #32383e;
   color: #fff;
-  padding: 10px 0;
+  padding-top: 10px;
 }
 .footer .copyright {
   line-height: 1.6;
@@ -440,9 +440,7 @@ img.project-image {
 .footer a {
   color: #fff;
 }
-.footer .fa-heart {
-  color: #fb866a;
-}
+
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .header {
