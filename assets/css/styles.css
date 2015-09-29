@@ -396,9 +396,9 @@ img.project-image {
   height: 15px;
   background: #66cb8c;
 }
-.skills .resume a,h3 {
-  padding: 0;
-  margin: 0;
+.skills .resume h3 {
+  padding: 0px;
+  margin: 0px !important;
 }
 
 /* List section */
