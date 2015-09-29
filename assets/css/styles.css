@@ -398,7 +398,7 @@ img.project-image {
 }
 .skills .resume h3 {
   padding: 0px;
-  margin: 0px !important;
+  margin-bottom: -30px !important;
 }
 
 /* List section */
