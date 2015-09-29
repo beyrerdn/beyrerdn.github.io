@@ -111,6 +111,12 @@ img.project-image {
   margin-left: auto;
   margin-right: auto;
 }
+.contact-info {
+  text-align: center;
+}
+.contact-info li {
+  padding: 20px;
+}
 
 /* ======= Header ======= */
 .header #profile-image-container img {
